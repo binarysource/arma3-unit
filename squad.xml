@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
-<squad nick="Ragner">
-	<name>Ragner</name>
+<squad nick="RAGNER">
+	<name>RAGNER</name>
 	<email></email>
 	<web></web>
 	<picture>arma_logo.paa</picture>
