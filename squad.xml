@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
-<squad nick="">
-	<name>TernaryOperator</name>
+<squad nick="Ragner">
+	<name>Ragner</name>
 	<email></email>
 	<web></web>
 	<picture>arma_logo.paa</picture>
 	<title></title>
-	<member id="76561198040688899" nick="Ternary">
+	<member id="76561198040688899" nick="TernaryOperator">
 		<name>TernaryOperator</name>
 		<email></email>
 		<icq></icq>
