@@ -2,13 +2,13 @@
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
 <squad nick="">
-	<name></name>
+	<name>TernaryOperator</name>
 	<email></email>
 	<web></web>
-	<picture></picture>
+	<picture>arma_logo.paa</picture>
 	<title></title>
-	<member id="" nick="">
-		<name></name>
+	<member id="76561198040688899" nick="Ternary">
+		<name>TernaryOperator</name>
 		<email></email>
 		<icq></icq>
 		<remark></remark>
