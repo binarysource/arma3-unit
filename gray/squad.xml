@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="RAGNER">
+	<name>RAGNER</name>
+	<email></email>
+	<web></web>
+	<picture>gray_logo.paa</picture>
+	<title></title>
+	<member id="76561198040688899" nick="TernaryOperator">
+		<name>TernaryOperator</name>
+		<email>none</email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+</squad>
